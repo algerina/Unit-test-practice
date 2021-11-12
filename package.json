@@ -1,8 +1,8 @@
 {
   "name": "unit-test-practice",
   "version": "1.0.0",
-  "description": "This poriject is to practice Writing unit tests for  JavaScript apps and usin AAA pattern.",
-  "main": "reverseString.js",
+  "description": "This project is to practice Writing unit tests for  JavaScript apps and usin AAA pattern.",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },

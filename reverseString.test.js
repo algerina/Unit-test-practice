@@ -1,3 +1,5 @@
 const reverseString = require('./reverseString');
 
-test('string must be yppah', () => expect(reverseString('happy')).toBe('yppah'));
+it('string must be yppah', () => { 
+    expect(reverseString('happy')).toBe('yppah');
+});
